@@ -1,0 +1,12 @@
+1.What are Variables?
+2.Types of variable?
+Ans)There are 2 types of Variables
+    1)System Variables
+    #env
+    2)User defined Variable
+    #anyname=value
+3.Rules to define Variable?
+4.Scope of Variable?
+Ans)1.session level(Terminal)
+    2.user level(.bashrc)
+    3.System level(/etc/profile)
