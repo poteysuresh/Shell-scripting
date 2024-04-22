@@ -1,0 +1,17 @@
+1.What is command-line Argument?
+Ans) the agruments whic are passed on the terminal while running the script is known as CL-Arguments.
+
+Important
+=========
+$? = exit code of the previous command execution
+$@ = All the Agruments passed(space seperator)
+$* = All the Arguments passed(single string)
+$# = Number of arguments passed
+$0 = script name
+$1 = 1st argument
+$2 = 2nd Argument
+$3 = 3rd Argument
+..
+..
+..
+So On....etc
